@@ -54,6 +54,7 @@
   }
 
   //made with some cope&paste
+  // slooooww
   Dot.prototype = {
     create: function(){
       ctx.beginPath();
